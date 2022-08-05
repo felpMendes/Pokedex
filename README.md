@@ -1,0 +1,1 @@
+Aplicação desenvolvida com uma API, sendo todos os elementos criados de forma dinâmica com java script. Portanto, tornando a aplicação leve e escalável
